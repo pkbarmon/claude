@@ -46,3 +46,33 @@ On Vecteezy, turn on **"Exclude AI-generated"**, and download landscape images a
 | 20 | maui-luau-vs-oahu-luau | `oahu diamond head` + `maui coastline` (pick one) | `blog-maui-vs-oahu.jpg` | Hawaiian coastline comparing Maui and Oahu luau settings |
 | 21 | maui-luau-tips-first-timers | `luau hawaii tourists` | `blog-first-timer-luau-guests.jpg` | First-time guests greeted with leis at a Maui luau |
 | 22 | maui-luau-food-guide | `poi taro hawaiian food` | `blog-luau-food-poi-plate.jpg` | Plate of poi, lomi salmon and kalua pork at a Maui luau |
+
+## Selected Vecteezy photos (non-AI filter on, picked 2026-09-24)
+
+The Vecteezy non-AI library has almost no real luau or hula photos, so some picks are the closest honest match. The alt text below describes what each photo **actually shows**, and replaces the draft alt text above.
+
+| Filename | Vecteezy ID | Actual alt text |
+|---|---|---|
+| blog-luau-cost-buffet.jpg | 11925389 | Guest serving herself from a resort dinner buffet |
+| blog-cheapest-luau-sunset-lawn.jpg | 28627069 | Person silhouetted on a Hawaiʻi beach at sunset with palm trees on the point |
+| blog-luau-start-time-sunset-palms.jpg | 1240675 | Palm trees silhouetted against a Hawaiian sunset over the ocean |
+| blog-luau-seating-tables.jpg | 12828058 | Long outdoor dinner table set by the ocean with hanging candle jars |
+| blog-open-bar-mai-tai.jpg | 8345296 | Layered red and orange tropical cocktail on a green leaf |
+| blog-luau-rain-tropical-leaves.jpg | 6893469 | Raindrops on a green banana leaf |
+| blog-luau-drive-coastal-highway.jpg | 1271685 | Aerial view of a coastal highway winding above a rocky shoreline |
+| blog-luau-worth-it-hula.jpg | 1310198 | Palm trees and a fire pit at a beachfront resort at dusk |
+| blog-luau-vegetarian-fruit.jpg | 79107079 | Platter of fresh pineapple, kiwi, oranges and grapes |
+| blog-myths-vs-huakai-polynesian-dance.jpg | 2304987 | Fire performer spinning flames on a beach at night |
+| blog-book-luau-calendar.jpg | 5205615 | Calendar with vacation dates circled in red |
+| blog-luau-discounts-budget.jpg | 3492749 | Travel savings jar with coins on a world map |
+| blog-best-time-maui-beach.jpg | 17535305 | Waves breaking on a sunny Maui beach |
+| blog-luau-etiquette-lei.jpg | 1307626 | Rows of colorful Hawaiian flower leis |
+| blog-what-to-wear-aloha-shirt.jpg | 11916247 | Couple in casual summer clothes walking on a tropical beach |
+| blog-imu-kalua-pig.jpg | 14537447 | Whole roasted pig on a spit, similar to the kalua pig served at a luau |
+| blog-wailea-beach-sunset.jpg | 1226104 | Sunset over Mākena Beach in South Maui, next to Wailea |
+| blog-kaanapali-beach-sunset.jpg | 3370718 | Sunset over the ocean from West Maui, with palm trees in the foreground |
+| blog-kaanapali-fire-knife-dancer.jpg | 7353623 | Fire spinner reflected in water among palm trees at night |
+| blog-grand-wailea-premium-seating.jpg | 56315425 | Oceanfront table set for two with wine and flowers |
+| blog-maui-vs-oahu.jpg | 3540094 | View from Diamond Head across Oʻahu's green hills to the ocean |
+| blog-first-timer-luau-guests.jpg | 10203766 | Hand holding a pineapple wearing heart sunglasses on a beach |
+| blog-luau-food-poi-plate.jpg | 5225826 | Hawaiian poke bowl with salmon, rice and vegetables |
