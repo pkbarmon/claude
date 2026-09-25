@@ -76,3 +76,12 @@ The Vecteezy non-AI library has almost no real luau or hula photos, so some pick
 | blog-maui-vs-oahu.jpg | 3540094 | View from Diamond Head across Oʻahu's green hills to the ocean |
 | blog-first-timer-luau-guests.jpg | 10203766 | Hand holding a pineapple wearing heart sunglasses on a beach |
 | blog-luau-food-poi-plate.jpg | 5225826 | Hawaiian poke bowl with salmon, rice and vegetables |
+
+## Round 2 (2026-09-25): posts still without photos
+
+- Parts 1–2 are live on the 20 posts they cover (checked in `src/lib/blog-images.ts`).
+- Still missing: `maui-luau-vs-oahu-luau` (temporary image), `maui-luau-tips-first-timers`, and `maui-luau-food-guide`, plus two new posts, `maui-luau-discounts` and `maui-hotels-with-a-luau`.
+- New Vecteezy picks (non-AI filter on):
+  - `maui-luau-discounts-lei-hero.jpg`: Vecteezy ID 2884030. Alt: "White plumeria flower resting on a rock beside the ocean"
+  - `maui-resort-coastline-luau-hero.jpg`: Vecteezy ID 2030114. Alt: "Aerial view of a beachfront resort with pools beside turquoise water"
+- All 5 sent to Lovable as part 3.
