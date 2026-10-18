@@ -18,8 +18,8 @@ hawaiian-activities.com sells tickets for two Maui luaus that mauiluaucompany.co
 
 | mauiluaucompany.com page | Sentence or section | Anchor text | Target |
 |---|---|---|---|
-| `/blog/how-much-does-a-maui-luau-cost` | Where cheaper Wailea options come up | Aloha Wailea Luau general admission tickets | https://hawaiian-activities.com/maui/aloha-wailea-luau-general-admission/ |
-| `/blog/cheapest-maui-luaus` | The "other venues" paragraph | book the Wednesday Aloha Wailea Luau | https://hawaiian-activities.com/maui/aloha-wailea-luau-general-admission/ |
+| `/blog/how-much-does-a-maui-luau-cost` | Where cheaper Wailea options come up | Aloha Wailea Luau tickets | https://hawaiian-activities.com/maui/aloha-wailea-luau/ |
+| `/blog/cheapest-maui-luaus` | The "other venues" paragraph | book the Wednesday Aloha Wailea Luau | https://hawaiian-activities.com/maui/aloha-wailea-luau/ |
 | `/luau-companies/andaz-maui-luau` (venue page) | Booking section | Feast at Mōkapu classic seating tickets | https://hawaiian-activities.com/maui/classic-luau-seating-tickets-maui/ |
 | `/blog/maui-luaus-with-open-bar` | Aloha Wailea mention, if present; otherwise skip | Aloha Wailea Luau VIP admission | https://hawaiian-activities.com/maui/aloha-wailea-luau-vip-admission/ |
 
